@@ -1,4 +1,4 @@
-//Ã°ÅİÅÅĞò
+//å†’æ³¡æ’åº
 function one(){
     var arr=[10,5,9,4,20,3,21,1];
     var temp=0;
@@ -15,7 +15,7 @@ function one(){
 }
 one();
 
-//µßµ¹Êı×é
+//é¢ å€’æ•°ç»„
 function two(){
     var arr=[1,2,3,4,5,6,7,8];
     var temp=0;
@@ -29,7 +29,7 @@ function two(){
     console.log(arr);
 }
 two();
-//ÁâĞÎ
+//è±å½¢
 function aa(){
     var kong="";
     var xing="";
@@ -55,7 +55,7 @@ function aa(){
     console.log(kong);
 }
 aa();
-//ÕıÈı½Ç£¨ÓÒ£©
+//æ­£ä¸‰è§’ï¼ˆå³ï¼‰
 function bb(){
     var s="";
     var num=5;
@@ -68,7 +68,7 @@ function bb(){
     console.log(s)
 }
 bb();
-//ÕıÈı½Ç£¨×ó£©
+//æ­£ä¸‰è§’ï¼ˆå·¦ï¼‰
 function cc(){
     var s="";
     var num=5;
@@ -84,7 +84,7 @@ function cc(){
     console.log(s);
 }
 cc();
-//µ¹Èı½Ç(×ó)
+//å€’ä¸‰è§’(å·¦)
 function dd(){
     var s="";
     var num=5;
