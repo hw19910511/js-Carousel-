@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:0;
+    user-select: none;
+    width:100%;
+    background-size: cover;
+}
+ul,li,p,h1,h2,h3,h4,h5,h6,dl,dt,dd,ol,div{
+    margin:0;
+    padding:0;
+    border:none;
+    list-style:none;
+    font-family: simsun, serif;
+}
+.box{
+    width:800px;
+    height:100px;
+    background-color:#eee;
+    margin:0 auto;
+    margin-top:100px;
+    overflow: hidden;
+}
+.box ul{
+    width:2400px;
+    height:100px;
+}
+.box ul li{
+    float:left;
+}
+img{
+    width:800px;
+}
